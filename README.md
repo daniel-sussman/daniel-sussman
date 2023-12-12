@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">A classical languages teacher turned software engineer</h3>
 
 - 🔭 I’m currently working on [Hero](www.hero-app.uk)
 
