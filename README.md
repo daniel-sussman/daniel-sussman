@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://daniel-sussman.github.io/profile/](https://daniel-sussman.github.io/profile/)
 
-- 📫 How to reach me **daniel.o.sussman@gmail.com**
+- 📫 You can reach me at: **daniel.o.sussman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
