@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A classical languages teacher turned software engineer</h3>
+<h3 align="center">A Classics teacher turned Software Engineer</h3>
 
-- 🔭 I’m currently working on [Hero](www.hero-app.uk)
+- 🔭 I’m currently working on [Cheddar](https://github.com/Ches-ctrl/Cheddar/) and [Hero](www.hero-app.uk)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **Testing frameworks in Rails**
 
 - 👨‍💻 All of my projects are available at [https://daniel-sussman.github.io/profile/](https://daniel-sussman.github.io/profile/)
 
