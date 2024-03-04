@@ -7,10 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://daniel-sussman.github.io/profile/](https://daniel-sussman.github.io/profile/)
 
-- 📫 You can reach me at: **daniel.o.sussman@gmail.com** or connect with me on [LinkedIn]()
+- 📫 You can reach me at: **daniel.o.sussman@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/d-sussman/)
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,py,ruby,rails,figma,git,postgres" />
+<h3 align="left">My tech stack:</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,py,ruby,rails,figma,git,postgres" /><img class="skill-icon-small" src="images/rspec.png">
 
-
-<p><img hidden align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-sussman&show_icons=true&locale=en&layout=compact" alt="daniel-sussman" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-sussman&show_icons=true&locale=en&layout=compact" alt="daniel-sussman" hidden="hidden"/></p>
