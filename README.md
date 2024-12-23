@@ -10,4 +10,4 @@
 - 📫 You can reach me at: **daniel.o.sussman@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/d-sussman/)
 
 <h3 align="left">My tech stack:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,py,kotlin,ruby,rails,figma,git,postgres" />
+<img src="https://skillicons.dev/icons?i=html,css,kotlin,java,py,js,react,ruby,rails,figma,git,postgres" />
